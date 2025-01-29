@@ -787,10 +787,11 @@ i {
         background: linear-gradient(to bottom right, rgb(16, 27, 63) 40%, rgb(46, 11, 11));
         padding-top: 20px;
         padding-left: 10px;
-        width: 400px;
+        width: 85vw;
         height: 250px;
         border-radius: 25px;
         position: relative;
+
     }
 
     .card h4 {
@@ -814,7 +815,7 @@ i {
         width: 100px;
         height: 90px;
         bottom: 15px;
-        right: -260px;
+        right: -60vw;
         aspect-ratio: 3/2;
         object-fit: contain;
     }
